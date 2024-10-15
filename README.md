@@ -11,7 +11,7 @@ This demonstrates the cconnection of MySQL database and Node.js to create a simp
 1. Clone the repository
 2. Initialize the node.js environment
    ```
-   npm init -y
+    npm init -y
    ```
 3. Install the necessary dependancies
    ```
